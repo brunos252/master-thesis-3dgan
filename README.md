@@ -1,4 +1,4 @@
-#Models for generating three-dimensional objects
+# Models for generating three-dimensional objects
 
 Subject of this thesis is to explore Generative Adversarial Networks and apply a 3DGAN model to the problem of generating ultrasound images of defects in materials.
 After an introduction to Deep learning and generative methods, GAN and its derivative 3DGAN models are described.
