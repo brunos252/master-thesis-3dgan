@@ -1,0 +1,364 @@
+100% 59/59 [11:23<00:00, 11.58s/it]
+Epochs-0 (train) , D(x) : 2.631, D(G(x)) : 2.024
+Elapsed Time: 11.39 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:56<00:00,  1.98s/it]
+Epochs-1 (train) , D(x) : 1.399, D(G(x)) : 1.162
+Elapsed Time: 1.947 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:59<00:00,  2.02s/it]
+Epochs-2 (train) , D(x) : 1.38, D(G(x)) : 0.9948
+Elapsed Time: 1.985 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:59<00:00,  2.02s/it]
+Epochs-3 (train) , D(x) : 1.295, D(G(x)) : 0.9183
+Elapsed Time: 1.988 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:59<00:00,  2.03s/it]
+Epochs-4 (train) , D(x) : 1.362, D(G(x)) : 0.8005
+Elapsed Time: 1.999 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:51<00:00,  1.90s/it]
+Epochs-5 (train) , D(x) : 1.31, D(G(x)) : 0.8439
+Elapsed Time: 1.864 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:48<00:00,  1.84s/it]
+Epochs-6 (train) , D(x) : 1.27, D(G(x)) : 0.8599
+Elapsed Time: 1.805 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:49<00:00,  1.86s/it]
+Epochs-7 (train) , D(x) : 1.25, D(G(x)) : 0.8689
+Elapsed Time: 1.833 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:37<00:00,  1.65s/it]
+Epochs-8 (train) , D(x) : 1.159, D(G(x)) : 0.927
+Elapsed Time: 1.626 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:41<00:00,  1.71s/it]
+Epochs-9 (train) , D(x) : 1.17, D(G(x)) : 0.9056
+Elapsed Time: 1.685 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:40<00:00,  1.71s/it]
+Epochs-10 (train) , D(x) : 1.147, D(G(x)) : 0.9562
+Elapsed Time: 1.681 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:38<00:00,  1.67s/it]
+Epochs-11 (train) , D(x) : 1.154, D(G(x)) : 0.9023
+Elapsed Time: 1.643 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:40<00:00,  1.70s/it]
+Epochs-12 (train) , D(x) : 1.127, D(G(x)) : 1.006
+Elapsed Time: 1.67 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:37<00:00,  1.65s/it]
+Epochs-13 (train) , D(x) : 1.116, D(G(x)) : 0.9769
+Elapsed Time: 1.627 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:39<00:00,  1.68s/it]
+Epochs-14 (train) , D(x) : 1.101, D(G(x)) : 1.005
+Elapsed Time: 1.653 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:28<00:00,  1.50s/it]
+Epochs-15 (train) , D(x) : 1.007, D(G(x)) : 1.073
+Elapsed Time: 1.474 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:15<00:00,  1.27s/it]
+Epochs-16 (train) , D(x) : 0.8465, D(G(x)) : 1.175
+Elapsed Time: 1.253 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:27<00:00,  1.49s/it]
+Epochs-17 (train) , D(x) : 1.021, D(G(x)) : 1.117
+Elapsed Time: 1.464 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:32<00:00,  1.57s/it]
+Epochs-18 (train) , D(x) : 1.029, D(G(x)) : 1.104
+Elapsed Time: 1.547 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:30<00:00,  1.53s/it]
+Epochs-19 (train) , D(x) : 1.022, D(G(x)) : 1.138
+Elapsed Time: 1.505 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:34<00:00,  1.60s/it]
+Epochs-20 (train) , D(x) : 1.017, D(G(x)) : 1.095
+Elapsed Time: 1.574 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:34<00:00,  1.60s/it]
+Epochs-21 (train) , D(x) : 1.088, D(G(x)) : 1.043
+Elapsed Time: 1.574 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:40<00:00,  1.70s/it]
+Epochs-22 (train) , D(x) : 1.114, D(G(x)) : 0.9953
+Elapsed Time: 1.671 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:37<00:00,  1.65s/it]
+Epochs-23 (train) , D(x) : 1.145, D(G(x)) : 0.9838
+Elapsed Time: 1.626 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:41<00:00,  1.71s/it]
+Epochs-24 (train) , D(x) : 1.096, D(G(x)) : 1.031
+Elapsed Time: 1.684 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:40<00:00,  1.70s/it]
+Epochs-25 (train) , D(x) : 1.106, D(G(x)) : 1.043
+Elapsed Time: 1.667 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:43<00:00,  1.76s/it]
+Epochs-26 (train) , D(x) : 1.088, D(G(x)) : 1.061
+Elapsed Time: 1.726 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:36<00:00,  1.64s/it]
+Epochs-27 (train) , D(x) : 1.105, D(G(x)) : 1.008
+Elapsed Time: 1.615 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:40<00:00,  1.70s/it]
+Epochs-28 (train) , D(x) : 1.075, D(G(x)) : 1.068
+Elapsed Time: 1.672 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.56s/it]
+Epochs-29 (train) , D(x) : 1.067, D(G(x)) : 1.013
+Elapsed Time: 1.533 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:39<00:00,  1.68s/it]
+Epochs-30 (train) , D(x) : 1.097, D(G(x)) : 1.098
+Elapsed Time: 1.655 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:33<00:00,  1.59s/it]
+Epochs-31 (train) , D(x) : 1.054, D(G(x)) : 1.016
+Elapsed Time: 1.56 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:34<00:00,  1.60s/it]
+Epochs-32 (train) , D(x) : 1.05, D(G(x)) : 1.019
+Elapsed Time: 1.574 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:35<00:00,  1.61s/it]
+Epochs-33 (train) , D(x) : 1.06, D(G(x)) : 1.04
+Elapsed Time: 1.585 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:36<00:00,  1.64s/it]
+Epochs-34 (train) , D(x) : 1.072, D(G(x)) : 1.02
+Elapsed Time: 1.616 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:41<00:00,  1.71s/it]
+Epochs-35 (train) , D(x) : 1.071, D(G(x)) : 1.079
+Elapsed Time: 1.686 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.56s/it]
+Epochs-36 (train) , D(x) : 1.054, D(G(x)) : 1.032
+Elapsed Time: 1.533 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:28<00:00,  1.50s/it]
+Epochs-37 (train) , D(x) : 1.024, D(G(x)) : 1.031
+Elapsed Time: 1.478 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:35<00:00,  1.61s/it]
+Epochs-38 (train) , D(x) : 1.055, D(G(x)) : 1.061
+Elapsed Time: 1.585 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:27<00:00,  1.49s/it]
+Epochs-39 (train) , D(x) : 1.034, D(G(x)) : 1.078
+Elapsed Time: 1.464 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.54s/it]
+Epochs-40 (train) , D(x) : 1.014, D(G(x)) : 1.101
+Elapsed Time: 1.517 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:39<00:00,  1.69s/it]
+Epochs-41 (train) , D(x) : 1.045, D(G(x)) : 1.092
+Elapsed Time: 1.658 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:32<00:00,  1.57s/it]
+Epochs-42 (train) , D(x) : 1.056, D(G(x)) : 1.081
+Elapsed Time: 1.544 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:26<00:00,  1.46s/it]
+Epochs-43 (train) , D(x) : 1.011, D(G(x)) : 1.147
+Elapsed Time: 1.436 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.56s/it]
+Epochs-44 (train) , D(x) : 0.9878, D(G(x)) : 1.161
+Elapsed Time: 1.53 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.56s/it]
+Epochs-45 (train) , D(x) : 1.019, D(G(x)) : 1.076
+Elapsed Time: 1.533 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:32<00:00,  1.56s/it]
+Epochs-46 (train) , D(x) : 0.9799, D(G(x)) : 1.143
+Elapsed Time: 1.533 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:36<00:00,  1.64s/it]
+Epochs-47 (train) , D(x) : 1.025, D(G(x)) : 1.163
+Elapsed Time: 1.613 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:25<00:00,  1.45s/it]
+Epochs-48 (train) , D(x) : 0.9362, D(G(x)) : 1.159
+Elapsed Time: 1.423 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:30<00:00,  1.53s/it]
+Epochs-49 (train) , D(x) : 0.9886, D(G(x)) : 1.161
+Elapsed Time: 1.505 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:29<00:00,  1.51s/it]
+Epochs-50 (train) , D(x) : 0.995, D(G(x)) : 1.178
+Elapsed Time: 1.489 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:24<00:00,  1.43s/it]
+Epochs-51 (train) , D(x) : 0.9445, D(G(x)) : 1.195
+Elapsed Time: 1.408 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.56s/it]
+Epochs-52 (train) , D(x) : 1.049, D(G(x)) : 1.124
+Elapsed Time: 1.533 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:31<00:00,  1.56s/it]
+Epochs-53 (train) , D(x) : 1.006, D(G(x)) : 1.15
+Elapsed Time: 1.533 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:24<00:00,  1.43s/it]
+Epochs-54 (train) , D(x) : 0.9683, D(G(x)) : 1.141
+Elapsed Time: 1.408 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:35<00:00,  1.61s/it]
+Epochs-55 (train) , D(x) : 0.9365, D(G(x)) : 1.139
+Elapsed Time: 1.585 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:27<00:00,  1.49s/it]
+Epochs-56 (train) , D(x) : 0.9779, D(G(x)) : 1.085
+Elapsed Time: 1.461 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:24<00:00,  1.43s/it]
+Epochs-57 (train) , D(x) : 0.9465, D(G(x)) : 1.15
+Elapsed Time: 1.406 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:26<00:00,  1.46s/it]
+Epochs-58 (train) , D(x) : 0.9171, D(G(x)) : 1.216
+Elapsed Time: 1.437 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:29<00:00,  1.52s/it]
+Epochs-59 (train) , D(x) : 0.9397, D(G(x)) : 1.239
+Elapsed Time: 1.492 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:25<00:00,  1.46s/it]
+Epochs-60 (train) , D(x) : 0.9506, D(G(x)) : 1.145
+Elapsed Time: 1.433 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:23<00:00,  1.42s/it]
+Epochs-61 (train) , D(x) : 0.9505, D(G(x)) : 1.125
+Elapsed Time: 1.396 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:27<00:00,  1.49s/it]
+Epochs-62 (train) , D(x) : 0.9236, D(G(x)) : 1.175
+Elapsed Time: 1.461 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:24<00:00,  1.43s/it]
+Epochs-63 (train) , D(x) : 0.9633, D(G(x)) : 1.142
+Elapsed Time: 1.406 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:29<00:00,  1.51s/it]
+Epochs-64 (train) , D(x) : 0.9299, D(G(x)) : 1.177
+Elapsed Time: 1.489 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:25<00:00,  1.44s/it]
+Epochs-65 (train) , D(x) : 0.9329, D(G(x)) : 1.185
+Elapsed Time: 1.419 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:20<00:00,  1.36s/it]
+Epochs-66 (train) , D(x) : 0.9404, D(G(x)) : 1.144
+Elapsed Time: 1.341 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:29<00:00,  1.51s/it]
+Epochs-67 (train) , D(x) : 0.932, D(G(x)) : 1.132
+Elapsed Time: 1.489 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:24<00:00,  1.43s/it]
+Epochs-68 (train) , D(x) : 0.9417, D(G(x)) : 1.123
+Elapsed Time: 1.409 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:28<00:00,  1.50s/it]
+Epochs-69 (train) , D(x) : 0.9337, D(G(x)) : 1.151
+Elapsed Time: 1.478 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:22<00:00,  1.40s/it]
+Epochs-70 (train) , D(x) : 0.8983, D(G(x)) : 1.197
+Elapsed Time: 1.381 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:19<00:00,  1.35s/it]
+Epochs-71 (train) , D(x) : 0.8773, D(G(x)) : 1.173
+Elapsed Time: 1.326 min
+model_saved, images_saved...
+spremljen i checkpoint
+100% 59/59 [01:30<00:00,  1.53s/it]
+Epochs-72 (train) , D(x) : 0.9136, D(G(x)) : 1.253
+Elapsed Time: 1.503 min
+model_saved, images_saved...
